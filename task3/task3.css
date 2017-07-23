@@ -1,0 +1,24 @@
+<style type="text/css">
+    body{
+	    background-color: #68cdd5;
+	    font-size: 1.25em;
+        }
+    .back{
+	  padding-top:0.01em;
+	  padding-left:0.01em;
+         }
+    .title{
+	  text-align:center;
+      padding: 2em;
+           }
+    .p{padding: 0 2em 6em;
+   text-align:center;
+      }
+    .left{
+	position: absolute;
+	left: 2em	
+         }
+    .right{
+	position:absolute;
+	right: 2em;         }
+</style>
